@@ -1,0 +1,69 @@
+{
+    "about":
+    {
+        "supTitle": "About Us",
+        "title": "We’re a game influencer agency.",
+        "description": "<p>We’ve connected heroic brands and publishers with the right gaming talent for wildly creative, record-breaking promotions and endorsements across the video game industry. Gaming is about more than games and we’re here to prove it.</p>"
+    },
+    "case-studies":
+    [
+        {
+            "supTitle": "Case Study",
+            "title": "Selling new headphones with Audio-Technica",
+            "description": "<p>From writing the script to sourcing the right talent, Loaded crafted a storyline that resonated with gamers from around the globe which led to day one backorders for Audio-Technica’s new ATH-ADG1x headphones.</p>",
+            "button":
+            {
+                "html": "Read Case Study",
+                "href": "https://google.com"
+            }
+        },
+        {
+            "supTitle": "Case Study",
+            "title": "Breaking viewership records with Sheriff Eli",
+            "description": "<p>Although his own unique personality helped propel him into everyone’s hearts, Loaded was there before anyone to design his brand, land pre-launch sponsorships, and give him access to real-time NOSCOPE data insights to ensure his first stream on Twitch would be impossible to miss.</p>",
+            "button":
+            {
+                "html": "Read Case Study",
+                "href": "https://google.com"
+            }
+        }
+    ],
+    "newsletter":
+    {
+        "title": "Let us send you our case studies, and we’ll keep in touch...",
+        "field":
+        {
+            "placeholder": "Your email address"
+        },
+        "button":
+        {
+            "label": "Send them!"
+        }
+    },
+    "footer":
+    {
+        "items":
+        [
+            {
+                "html": "info@loaded.gg",
+                "href": "mailto:info@loaded.gg"
+            },
+            "Stay tuned. :)"
+        ],
+        "social":
+        [
+            {
+                "href": "https://twitter.com/loadedgg"
+            }
+        ],
+        "bottom":
+        [
+            "Terms",
+            "Privacy"
+        ]
+    },
+    "contact":
+    {
+        "href": "mailto:info@loaded.gg"
+    }
+}
